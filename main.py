@@ -1,5 +1,4 @@
 import os
-
 import requests
 import smtplib as smtp
 from twilio.rest import Client
